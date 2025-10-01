@@ -1,5 +1,7 @@
 # Hackintosh, Huananzhi X99 F8D Plus, 2x Intel Xeon E5 2697a V4, AMD Radeon RX 580 2304 SP and 8x32Gb DDR4
 
+<img width="1988" height="1186" alt="Sensei" src="https://github.com/user-attachments/assets/dde46bd9-f339-4267-ace9-546732c040eb" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.7.1)
